@@ -1,0 +1,182 @@
+<!--home page-->
+<!-- Initially written by Rohan Jaswal and Rahul Raturi-->
+<!-- ÂŠCSEC-NITH-->
+<html>
+ <head>
+  <title>
+   .:: CSEC ::.
+  </title>
+  <link rel="stylesheet" type="text/css" href="/css/main.css" />
+  <link rel="stylesheet" type="text/css" href="/css/content.css" />
+ </head>
+ <!-- Initially written by Rahul Raturi and Rohan Jaswal-->
+ <!-- ÂŠCSEC-NITH-->
+</html>
+<html>
+ <head>
+  <link href="/css/main.css" type="text/css" rel="stylesheet" />
+ </head>
+ <div class="header">
+  <div class="logo">
+   <img src="/images/imes.jpeg" />
+  </div>
+  <h2>
+   Computer Science Engineers Community
+  </h2>
+ </div>
+ <ul class="parent_list" id="navbar">
+  <li>
+   <a href="../index.php">
+    Home
+   </a>
+  </li>
+  <li>
+   <a href="/pages/cons.php">
+    About
+   </a>
+  </li>
+  <li>
+   <a href="/pages/cons.php">
+    Activities
+   </a>
+  </li>
+  <ul class="nested_list">
+   <li>
+    <a href="/pages/cons.php">
+     C lectures
+    </a>
+   </li>
+   <li>
+    <a href="/pages/cons.php">
+     Codemons
+    </a>
+   </li>
+   <li>
+    <a href="/pages/cons.php">
+     Web development
+    </a>
+   </li>
+   <li>
+    <a href="/pages/cons.php">
+     Python
+    </a>
+   </li>
+   <li>
+    <a href="/pages/cons.php">
+     Workshops
+    </a>
+   </li>
+  </ul>
+  <li>
+   <a href="../pages/cons.php" target="MAIN">
+    Members
+   </a>
+  </li>
+  <ul class="nested_list">
+   <li>
+    <a href="../pages/final.php">
+     Final Year
+    </a>
+   </li>
+   <li>
+    <a href="../pages/third.php">
+     Third Year
+    </a>
+   </li>
+   <li>
+    <a href="../pages/second_yr.php">
+     Second Year
+    </a>
+   </li>
+   <li>
+    <a href="../pages/cons.php">
+     First Year
+    </a>
+   </li>
+  </ul>
+  <li>
+   <a href="../pages/cons.php">
+    Contact Us
+   </a>
+  </li>
+ </ul>
+ <ul id="social_links">
+  <li>
+   <a href="https://www.facebook.com/pages/CSEC-Computer-Science-Engineers-Community/1496888247232617?ref=hl" target="_blank">
+    <img src="/images/facebook.png" alt="" />
+   </a>
+  </li>
+  <li>
+   <a href="https://twitter.com/csecnith" target="_blank">
+    <img src="/images/twitter.png" alt="" />
+   </a>
+  </li>
+  <li>
+   <a href="http://social.link/" target="_blank">
+    <img src="/images/email.png" alt="" />
+   </a>
+  </li>
+  <li>
+   <a href="https://github.com/CSEC-NITH/" target="_blank">
+    <img src="/images/github.png" alt="" />
+   </a>
+  </li>
+  <li>
+   <a href="http://social.link/" target="_blank">
+    <img src="/images/quora.png" alt="" />
+   </a>
+  </li>
+  <li>
+   <a href="https://plus.google.com/u/0/104484102243545712040/about" target="_blank">
+    <img src="/images/google-plus.png" />
+   </a>
+  </li>
+ </ul>
+ <!-- -->
+</html>
+<body>
+ <div id="main_content">
+  <h1>
+   Welcome!
+  </h1>
+  <hr />
+  <div class="article">
+   <div class="text">
+    <p>
+     <div class="image">
+      <img src="/images/images.jpeg" />
+     </div>
+     Welcome to the new website of Computer Science Engineers 
+				community of National Institute of Technology, Hamirpur.
+    </p>
+   </div>
+  </div>
+  <div class="article-left">
+   <center>
+    <h3>
+     Upcoming
+    </h3>
+   </center>
+   <div class="text">
+    <p>
+     A new video portal is under construction which will serve you various video tutorials on local Network of NITH. Then you can view those tutorials at high speeds and can get rid of poor internet speed for viewing tutorials on youtube.
+    </p>
+   </div>
+  </div>
+  <div class="article-right">
+   <a class="twitter-timeline" href="https://twitter.com/csecnith" data-widget-id="525556426265989121">
+    CSEC on Twitter
+   </a>
+   <script>
+    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+   </script>
+  </div>
+  <!--div class ="article"&gt;
+		&lt;p&gt;
+			&lt;center&gt;
+			&lt;h3&gt;Notice&lt;/h3&gt;
+			This website is under construction. Please visit after sometime and bear with us.&lt;/center&gt; 
+		&lt;/p&gt;
+	&lt;/div-->
+ </div>
+</body>
